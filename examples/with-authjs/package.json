@@ -9,7 +9,7 @@
   "devDependencies": {
     "@types/node": "^18.11.18",
     "esbuild": "^0.14.54",
-    "next-auth": "^4.19.2",
+    "next-auth": "^4.24.5",
     "postcss": "^8.4.21",
     "solid-start-node": "^0.2.19",
     "typescript": "^4.9.4",
