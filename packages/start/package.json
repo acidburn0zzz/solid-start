@@ -103,7 +103,7 @@
     "set-cookie-parser": "^2.5.1",
     "sirv": "^2.0.2",
     "terser": "^5.16.1",
-    "undici": "^5.15.1",
+    "undici": "^5.26.2",
     "vite-plugin-inspect": "^0.7.14",
     "vite-plugin-solid": "^2.6.1",
     "wait-on": "^6.0.1"
